@@ -131,3 +131,10 @@ fabric.properties
 
 
 /vendor/bundle/
+
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+/db/*.sqlite3
